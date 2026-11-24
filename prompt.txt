@@ -1,0 +1,1 @@
+Write one single-line joke about office life (under 200 characters) to entry.txt. The joke should feel true to anyone who works in an office, land on a surprise at the end, and stay tight with no wasted words.
